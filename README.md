@@ -120,7 +120,7 @@ Main-Router>show ip route
 ## 📁 Files in this Repository
 - `Configs` – Router and Switch Configs  
 - `Diagrams` – Network Diagrams  
-- `Images` – Ping Tests and Wireless Connectivity  
+- `Images` – Ping Tests
 - `PKT` – Packet Tracer Project File  
 
 
