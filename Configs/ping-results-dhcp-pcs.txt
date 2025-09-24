@@ -1,0 +1,49 @@
+C:\>ipconfig
+
+FastEthernet0 Connection:(default port)
+
+   Connection-specific DNS Suffix..: 
+   Link-local IPv6 Address.........: FE80::203:E4FF:FE11:D8A3
+   IPv6 Address....................: ::
+   IPv4 Address....................: 192.168.1.135
+   Subnet Mask.....................: 255.255.255.192
+   Default Gateway.................: ::
+                                     192.168.1.129
+
+Bluetooth Connection:
+
+   Connection-specific DNS Suffix..: 
+   Link-local IPv6 Address.........: ::
+   IPv6 Address....................: ::
+   IPv4 Address....................: 0.0.0.0
+   Subnet Mask.....................: 0.0.0.0
+   Default Gateway.................: ::
+                                     0.0.0.0
+
+C:\>ping 192.168.1.72
+
+Pinging 192.168.1.72 with 32 bytes of data:
+
+Reply from 192.168.1.72: bytes=32 time<1ms TTL=127
+Reply from 192.168.1.72: bytes=32 time<1ms TTL=127
+Reply from 192.168.1.72: bytes=32 time<1ms TTL=127
+Reply from 192.168.1.72: bytes=32 time<1ms TTL=127
+
+Ping statistics for 192.168.1.72:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 0ms, Average = 0ms
+
+C:\>ping 192.168.1.199
+
+Pinging 192.168.1.199 with 32 bytes of data:
+
+Reply from 192.168.1.199: bytes=32 time<1ms TTL=127
+Reply from 192.168.1.199: bytes=32 time<1ms TTL=127
+Reply from 192.168.1.199: bytes=32 time<1ms TTL=127
+Reply from 192.168.1.199: bytes=32 time<1ms TTL=127
+
+Ping statistics for 192.168.1.199:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 0ms, Maximum = 0ms, Average = 0ms
